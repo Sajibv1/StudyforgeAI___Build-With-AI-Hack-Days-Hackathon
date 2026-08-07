@@ -1,0 +1,6 @@
+{
+  "name": "StudyForge AI",
+  "description": "Multi-agent Gemini application generating interactive study ebooks, rich diagrams, quizzes, and self-contained HTML downloads with live multi-agent showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
